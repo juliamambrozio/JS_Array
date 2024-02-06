@@ -12,6 +12,9 @@ console.log(array)
 array.unshift('Topy', 'Titi') //acrescenta primeiro
 console.log(array)
 
+//shift e unshift: efeito fila (o primeiro a entrar é o primeiro a sair)
+//pop e push: efeito pilha, o último a entrar é o primeiro a sair
+
 //splice: adiciona e remove elementos
 
 array.splice(1, 1) //remove um índice a partir do índice um

@@ -1,0 +1,5 @@
+JAVASCRIPT ARRAY---------------------------------------------------------------
+
+ativ1:
+Array: sort(ordem alfabética), delete
+Array2: explicação do pop, shift, push, unshift, splice
